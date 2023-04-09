@@ -1,7 +1,7 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "Just Another Text Editor",
+    "description": "",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
@@ -16,3 +16,4 @@
         "nodemon": "^2.0.4"
     }
 }
+
