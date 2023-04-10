@@ -15,26 +15,30 @@
 
 ## [Description](#table-of-contents)
 
-Building the back end API for a social network web application by using Express.js for routing, MongoDB for database, and Mongoose ODM. This will make users able to share their thoughts, react to friends' thoughts and create a friend list.
+Building a text editor website application, that will run in the browser and also will function offline, by using Express.js, nodemon & concurrently Devdependecies, and the required webpack dependencies to meet the PWA criteria. This single-page application also can be installed to a computer.
 
 ## [Installation](#table-of-contents)
     
-To install this Command-line application:
+To install this single-page application:
 
 * Clone the repository's code
 * Open it in VS Code, choose and open the terminal of your preference
-* Install the required packages (Express, Mongoose) by running "npm start"
+* Install the required packages, dependencies and Devdependencies (Express, nodemon, concurrently, webpack, etc) by running "npm install"
 
 ## [Usage](#table-of-contents)
     
 To use this application:
-* Connect to a mongoDB Compass database
-* Run the command " node index" to start the appplication
+* Run the command "npm run start dev" to start the appplication
+* open the assigned localhost PORT in the browser
 
-The following video goes through every steps mentioned before and also shows the use of GET, POST, PUT, and DELETE requests in the Insomnia to get, create, modify, or delete users, thoughts, friends, reactions information:[DemostrationVideo](https://drive.google.com/file/d/1K2G71WEz6htufvR3ITNNHyxyfNStE5cG/view)
+To use this application, please follow the next link [TextEditor]()
+
+The following image shows how the Text-Editor web application will look like:
+
+![Text-Editor](assets/text-editor.PNG)
 
     
-  ## [Contributing](#table-of-contents)
+## [Contributing](#table-of-contents)
 
   Thanks! But I am not accepting foreign contributions at the moment.
 
