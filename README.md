@@ -31,7 +31,7 @@ To use this application:
 * Run the command "npm run start dev" to start the appplication
 * open the assigned localhost PORT in the browser
 
-To use this application, please follow the next link [TextEditor]()
+To use this application, please follow the next link [TextEditor](https://whispering-oasis-78414.herokuapp.com)
 
 The following image shows how the Text-Editor web application will look like:
 
